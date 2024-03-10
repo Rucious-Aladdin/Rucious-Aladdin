@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi,%20I'm%20Suseong%20Kim!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blue2959)](https://solved.ac/blue2959/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rucious-Aladdin&layout=compact)
 
+<div align="center">
+  <a href="https://solved.ac/blue2959/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blue2959" alt="Solved.ac Profile">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rucious-Aladdin&layout=compact" alt="Top Languages Used">
+</div>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 

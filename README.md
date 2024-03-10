@@ -48,3 +48,10 @@
       src="https://img.shields.io/badge/blue29591@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+# Papers
+#### 엣지 컴퓨팅 환경에서 쿠버네티스 기반 네트워크 성능 제어 방식 분석
+- 변지섭, **김수성**, 이하림, 백보성, 이경운(경북대)
+- 한국차세대컴퓨팅학회, 2024.03.10  (게재확정)
+- ```Kubernetes```, ```Raspberry Pi```를 활용해 Edge-Computing 환경을 구축, 각각의 ```worker node```들에 container를 배포한 뒤에 네트워크 대역폭 분배의 불안정성에 대해서 분석하였다.
+- 2023 KNU-전자공학종합설계

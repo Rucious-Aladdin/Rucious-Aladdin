@@ -55,6 +55,6 @@
 ##  📃Papers
 #### 엣지 컴퓨팅 환경에서 쿠버네티스 기반 네트워크 성능 제어 방식 분석
 - 변지섭, **김수성**, 이하림, 백보성, 이경운(경북대)
-- 한국차세대컴퓨팅학회(2024.03.10 현재 게재확정)
+- 한국차세대컴퓨팅학회, [링크](https://www.earticle.net/ASP/Article/445528?Key=D6AFS3Skf5mDuj41jy1ZCg%3D%3D&ReturnUrl=%2FASP%2FArticles%2F381%3FKey%3DD6AFS3Skf5mDuj41jy1ZCg%253D%253D%26Issue%3D33864&Mode=Journal)
 - ```Kubernetes```, ```Raspberry Pi```를 활용해 Edge-Computing 환경을 구축, 각각의 ```worker node```들에 container를 배포한 뒤에 네트워크 대역폭 분배의 불안정성에 대해서 분석하였다.
 - 2023 KNU-전자공학종합설계
